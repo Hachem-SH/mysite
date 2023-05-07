@@ -3,7 +3,7 @@
 **IMPORTANT:** Before we start, we must check these ports 3308,8080,443,9000.
 If they are used, we need to determinate them
 
-we start by cloning the repositorie 
+we start by cloning the repository
 Then we login to docker
 ```bach 
 sudo docker login
